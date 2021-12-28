@@ -1,0 +1,1 @@
+A small script that calculates who pays who given a pokernow game.
